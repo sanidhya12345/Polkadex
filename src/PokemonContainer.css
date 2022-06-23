@@ -1,0 +1,15 @@
+.container{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+button{
+    width: 300px;
+    height: 30px;
+}
